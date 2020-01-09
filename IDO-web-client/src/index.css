@@ -1,0 +1,13 @@
+@font-face {
+  font-family: open-sans-hebrew;
+  src: url(./Fonts/OpenSansHebrew-Regular.ttf);
+}
+
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: open-sans-hebrew;
+  height: 100vh;
+  width: 100%;
+}

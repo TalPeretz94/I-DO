@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "806441580666",
+    "firebase_url": "https://i-do-fa424.firebaseio.com",
+    "project_id": "i-do-fa424",
+    "storage_bucket": "i-do-fa424.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806441580666:android:4d043a9133010a45",
+        "android_client_info": {
+          "package_name": "com.example.talpe.weddingpusher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806441580666-491hb5m9mrseipab8fbbvgb31ibvthnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANpnjxeCcdzVlP80M15-VLC3Q9PsNxFfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806441580666-491hb5m9mrseipab8fbbvgb31ibvthnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
